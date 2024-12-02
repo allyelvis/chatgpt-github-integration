@@ -1,2 +1,1 @@
-# chatgpt-github-integration
-I
+ChatGPT GitHub Integration App by Ally Elvis Nzeyimana

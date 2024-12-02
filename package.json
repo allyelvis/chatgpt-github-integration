@@ -1,0 +1,20 @@
+{
+  "name": "chatgpt-github-integration",
+  "version": "1.0.0",
+  "description": "I",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/rest": "^21.0.2",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "openai": "^4.74.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
