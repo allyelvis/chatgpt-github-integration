@@ -11,13 +11,14 @@
   "license": "MIT",
   "dependencies": {
     "@octokit/rest": "^21.0.2",
+    "chatgt": "^3.3.0",
     "cors": "^2.8.5",
     "express": "^4.21.1",
+    "mext": "^0.0.60",
     "openai": "^4.74.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/allyelvis/chatgpt-github-integration.git"
