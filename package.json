@@ -10,7 +10,7 @@
   "author": "Ally Elvis Nzeyimana",
   "license": "MIT",
   "dependencies": {
-    "@octokit/rest": "^21.0.2",
+    "@octokit/rest": "^21.1.1",
     "chatgt": "^3.3.0",
     "cors": "^2.8.5",
     "express": "^4.21.1",
